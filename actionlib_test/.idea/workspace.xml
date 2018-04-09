@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="actionlib_test" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="actionlib_test" targetName="gmock_main" />
+      <config projectName="actionlib_test" targetName="download_extra_data" />
+      <config projectName="actionlib_test" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="actionlib_test" targetName="actionlib_test_generate_messages_eus" />
+      <config projectName="actionlib_test" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="actionlib_test" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="actionlib_test" targetName="run_tests" />
+      <config projectName="actionlib_test" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="actionlib_test" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="actionlib_test" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="actionlib_test" targetName="doxygen" />
+      <config projectName="actionlib_test" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="actionlib_test" targetName="_actionlib_test_generate_messages_check_deps_TestGoal" />
+      <config projectName="actionlib_test" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="actionlib_test" targetName="std_msgs_generate_messages_py" />
+      <config projectName="actionlib_test" targetName="gtest_main" />
+      <config projectName="actionlib_test" targetName="actionlib_generate_messages_py" />
+      <config projectName="actionlib_test" targetName="server" />
+      <config projectName="actionlib_test" targetName="actionlib_generate_messages_eus" />
+      <config projectName="actionlib_test" targetName="gmock" />
+      <config projectName="actionlib_test" targetName="actionlib_test_gencpp" />
+      <config projectName="actionlib_test" targetName="_catkin_empty_exported_target" />
+      <config projectName="actionlib_test" targetName="actionlib_test_genlisp" />
+      <config projectName="actionlib_test" targetName="_actionlib_test_generate_messages_check_deps_TestFeedback" />
+      <config projectName="actionlib_test" targetName="clean_test_results" />
+      <config projectName="actionlib_test" targetName="client" />
+      <config projectName="actionlib_test" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="actionlib_test" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="actionlib_test" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="actionlib_test" targetName="actionlib_test_generate_messages_lisp" />
+      <config projectName="actionlib_test" targetName="gtest" />
+      <config projectName="actionlib_test" targetName="actionlib_test_generate_messages_nodejs" />
+      <config projectName="actionlib_test" targetName="roscpp_generate_messages_py" />
+      <config projectName="actionlib_test" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="actionlib_test" targetName="_actionlib_test_generate_messages_check_deps_TestActionResult" />
+      <config projectName="actionlib_test" targetName="actionlib_test_genpy" />
+      <config projectName="actionlib_test" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="actionlib_test" targetName="actionlib_test_geneus" />
+      <config projectName="actionlib_test" targetName="_actionlib_test_generate_messages_check_deps_TestActionGoal" />
+      <config projectName="actionlib_test" targetName="actionlib_test_gennodejs" />
+      <config projectName="actionlib_test" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="actionlib_test" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="actionlib_test" targetName="_actionlib_test_generate_messages_check_deps_TestActionFeedback" />
+      <config projectName="actionlib_test" targetName="roscpp_generate_messages_eus" />
+      <config projectName="actionlib_test" targetName="_actionlib_test_generate_messages_check_deps_TestAction" />
+      <config projectName="actionlib_test" targetName="actionlib_test_generate_messages" />
+      <config projectName="actionlib_test" targetName="tests" />
+      <config projectName="actionlib_test" targetName="actionlib_test_generate_messages_cpp" />
+      <config projectName="actionlib_test" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="actionlib_test" targetName="_actionlib_test_generate_messages_check_deps_TestResult" />
+      <config projectName="actionlib_test" targetName="actionlib_test_generate_messages_py" />
+      <config projectName="actionlib_test" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="actionlib_test" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="actionlib_test" targetName="roscpp_generate_messages_cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCATKIN_DEVEL_PREFIX=/home/garrus/ros/devel" GENERATION_DIR="$PROJECT_DIR$/../../build/actionlib_test" BUILD_OPTIONS="-j 8" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d4330c4-b88e-45cc-b386-f0d548697bc7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/../../build/actionlib_test/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="server.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/server.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#20#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/action/test_action.action" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/package.xml" />
+        <option value="$PROJECT_DIR$/action/Test.action" />
+        <option value="$PROJECT_DIR$/src/client.cpp" />
+        <option value="$PROJECT_DIR$/src/server.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="1922" />
+    <option name="height" value="1081" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="actionlib_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actionlib_test" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="actionlib_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actionlib_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="actionlib_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="actionlib_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actionlib_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="actionlib_test" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="actionlib_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actionlib_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="actionlib_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.client">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="_actionlib_test_generate_messages_check_deps_TestAction" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="_actionlib_test_generate_messages_check_deps_TestAction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="_actionlib_test_generate_messages_check_deps_TestActionFeedback" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="_actionlib_test_generate_messages_check_deps_TestActionFeedback" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="_actionlib_test_generate_messages_check_deps_TestActionGoal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="_actionlib_test_generate_messages_check_deps_TestActionGoal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="_actionlib_test_generate_messages_check_deps_TestActionResult" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="_actionlib_test_generate_messages_check_deps_TestActionResult" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="_actionlib_test_generate_messages_check_deps_TestFeedback" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="_actionlib_test_generate_messages_check_deps_TestFeedback" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="_actionlib_test_generate_messages_check_deps_TestGoal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="_actionlib_test_generate_messages_check_deps_TestGoal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="_actionlib_test_generate_messages_check_deps_TestResult" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="_actionlib_test_generate_messages_check_deps_TestResult" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="_catkin_empty_exported_target" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_gencpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_generate_messages" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_generate_messages_cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_generate_messages_eus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_generate_messages_lisp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_generate_messages_nodejs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_generate_messages_py" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_geneus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_genlisp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_gennodejs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="actionlib_test_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="actionlib_test_genpy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="client" />
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="doxygen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="gmock" CONFIG_NAME="Debug" />
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="gmock_main" CONFIG_NAME="Debug" />
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="gtest" CONFIG_NAME="Debug" />
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="gtest_main" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="run_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="actionlib_test" RUN_TARGET_NAME="server" />
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="actionlib_test" TARGET_NAME="tests" CONFIG_NAME="Debug" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application._actionlib_test_generate_messages_check_deps_TestAction" />
+      <item itemvalue="Application._actionlib_test_generate_messages_check_deps_TestActionFeedback" />
+      <item itemvalue="Application._actionlib_test_generate_messages_check_deps_TestActionGoal" />
+      <item itemvalue="Application._actionlib_test_generate_messages_check_deps_TestActionResult" />
+      <item itemvalue="Application._actionlib_test_generate_messages_check_deps_TestFeedback" />
+      <item itemvalue="Application._actionlib_test_generate_messages_check_deps_TestGoal" />
+      <item itemvalue="Application._actionlib_test_generate_messages_check_deps_TestResult" />
+      <item itemvalue="Application._catkin_empty_exported_target" />
+      <item itemvalue="Application.actionlib_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_generate_messages_py" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_py" />
+      <item itemvalue="Application.actionlib_test_gencpp" />
+      <item itemvalue="Application.actionlib_test_generate_messages" />
+      <item itemvalue="Application.actionlib_test_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_test_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_test_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_test_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_test_generate_messages_py" />
+      <item itemvalue="Application.actionlib_test_geneus" />
+      <item itemvalue="Application.actionlib_test_genlisp" />
+      <item itemvalue="Application.actionlib_test_gennodejs" />
+      <item itemvalue="Application.actionlib_test_genpy" />
+      <item itemvalue="Application.clean_test_results" />
+      <item itemvalue="Application.client" />
+      <item itemvalue="Application.download_extra_data" />
+      <item itemvalue="Application.doxygen" />
+      <item itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="Application.roscpp_generate_messages_eus" />
+      <item itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="Application.roscpp_generate_messages_py" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="Application.run_tests" />
+      <item itemvalue="Application.server" />
+      <item itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_msgs_generate_messages_py" />
+      <item itemvalue="Application.tests" />
+      <item itemvalue="Application.gmock" />
+      <item itemvalue="Application.gmock_main" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d4330c4-b88e-45cc-b386-f0d548697bc7" name="Default" comment="" />
+      <created>1523307841216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523307841216</updated>
+      <workItem from="1523307844090" duration="7455000" />
+      <workItem from="1523315746795" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7763000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1081" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18378094" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.33738938" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32964602" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42582712" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32964602" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.44503736" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/server.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#20#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action/Test.action">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/actionlib/server/simple_action_server.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/actionlib/server/simple_action_server_imp.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="237" column="59" selection-start-line="237" selection-start-column="59" selection-end-line="237" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#20#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

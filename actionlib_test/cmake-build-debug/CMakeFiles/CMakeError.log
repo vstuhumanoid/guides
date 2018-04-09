@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/garrus/ros/src/actionlib_test/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e65ab/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e65ab.dir/build.make CMakeFiles/cmTC_e65ab.dir/build
+make[1]: вход в каталог «/home/garrus/ros/src/actionlib_test/cmake-build-debug/CMakeFiles/CMakeTmp»
+Building C object CMakeFiles/cmTC_e65ab.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_e65ab.dir/CheckSymbolExists.c.o   -c /home/garrus/ros/src/actionlib_test/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_e65ab
+/opt/clion-2018.1/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e65ab.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_e65ab.dir/CheckSymbolExists.c.o  -o cmTC_e65ab 
+CMakeFiles/cmTC_e65ab.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_e65ab.dir/build.make:97: ошибка выполнения рецепта для цели «cmTC_e65ab»
+make[1]: *** [cmTC_e65ab] Ошибка 1
+make[1]: выход из каталога «/home/garrus/ros/src/actionlib_test/cmake-build-debug/CMakeFiles/CMakeTmp»
+Makefile:126: ошибка выполнения рецепта для цели «cmTC_e65ab/fast»
+make: *** [cmTC_e65ab/fast] Ошибка 2
+
+File /home/garrus/ros/src/actionlib_test/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/garrus/ros/src/actionlib_test/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_152cb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_152cb.dir/build.make CMakeFiles/cmTC_152cb.dir/build
+make[1]: вход в каталог «/home/garrus/ros/src/actionlib_test/cmake-build-debug/CMakeFiles/CMakeTmp»
+Building C object CMakeFiles/cmTC_152cb.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_152cb.dir/CheckFunctionExists.c.o   -c /opt/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_152cb
+/opt/clion-2018.1/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_152cb.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_152cb.dir/CheckFunctionExists.c.o  -o cmTC_152cb -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_152cb.dir/build.make:97: ошибка выполнения рецепта для цели «cmTC_152cb»
+make[1]: *** [cmTC_152cb] Ошибка 1
+make[1]: выход из каталога «/home/garrus/ros/src/actionlib_test/cmake-build-debug/CMakeFiles/CMakeTmp»
+Makefile:126: ошибка выполнения рецепта для цели «cmTC_152cb/fast»
+make: *** [cmTC_152cb/fast] Ошибка 2
+
+

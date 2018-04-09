@@ -1,0 +1,8 @@
+# goal
+int32 a
+---
+# result_
+int32 b
+---
+# feedback
+int32 c

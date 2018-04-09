@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/garrus/ros/src/actionlib_test/cmake-build-debug/devel/setup.sh
